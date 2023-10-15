@@ -4,4 +4,4 @@ class Dog:
         self.breed = breed
 
 my_dog = Dog ("Buddy", "Golden Retriever")
-print(f"My favourite dog's name is {my_dog.name} and the breed is {my_dog.breed}")
+print(f"My dog's name is {my_dog.name} and the breed is {my_dog.breed}")
